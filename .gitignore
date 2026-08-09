@@ -212,6 +212,22 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Data (if large)
+*.parquet
+data/raw/
+
+# Outputs that are too large (optional)
+# outputs/*.html
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv/
 __marimo__/
 
 # Streamlit
