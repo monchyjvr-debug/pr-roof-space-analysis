@@ -69,3 +69,5 @@ Acknowledgments
 
 National Renewable Energy Laboratory (NREL) for the PV Rooftop Database for Puerto Rico
 OpenStreetMap and related building footprint sources used in the original dataset
+Tableau Project link https://public.tableau.com/views/NumberofPuertoRicoBuildingswithlessthan150squarefeetofrooftop/Hoja1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
